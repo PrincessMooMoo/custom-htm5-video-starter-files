@@ -14,5 +14,8 @@
   "license": "MIT",
   "devDependencies": {
     "browser-sync": "^2.26.7"
+  },
+  "dependencies": {
+    "package.json": "^2.0.1"
   }
 }
